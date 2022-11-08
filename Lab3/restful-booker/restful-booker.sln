@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restful-booker", "restful-booker\restful-booker.csproj", "{92616E82-FC7D-429C-A1DB-9B22F2FAE85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92616E82-FC7D-429C-A1DB-9B22F2FAE85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92616E82-FC7D-429C-A1DB-9B22F2FAE85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92616E82-FC7D-429C-A1DB-9B22F2FAE85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92616E82-FC7D-429C-A1DB-9B22F2FAE85F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F33600E-B359-47A6-AF95-A55F3BCD3E5B}
+	EndGlobalSection
+EndGlobal
